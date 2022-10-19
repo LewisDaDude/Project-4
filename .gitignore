@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# CSV FILE
+EJSCREEN_2021_StatePctile_Tracts.csv

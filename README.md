@@ -5,13 +5,15 @@ A variety of characteristics can contribute to increased cancer rates, including
 
 We are interested in predicting air toxics cancer rates to help the United States government budget for healthcare costs in different areas of the United States that Medicare and Medicaid will help cover. 
 
-The question we are trying to answer is what the best regrssion model is to predict air toxics cancer rates per million person given data on environmental and demographic features. 
+The question we are trying to answer is what the best regression model is to predict air toxics cancer rates per million person given data on environmental and demographic features. 
 
 ## Table of Contents 
 1. 01_Executive_Summary
 2. 02_Data_Cleaning_Imputation 
 3. 03_EDA
 4. 04_Modeling 
+
+Link to Executive Summary: https://github.com/jguo052/Project-4/blob/main/code/01_Executive_Summary.md
 
 The data used in this project was sourced from the US Environmental Protection Agency's Environmental Justice Mapping and Screening Tool (EJSCREEN). The dataset gives information on various environmental and demographic features for census blocks and tracts in the United States in 2021. 
 

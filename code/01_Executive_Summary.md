@@ -115,6 +115,7 @@ We built models to predict air toxic cancer rates using two different sets of fe
 
 We fit ten different models on both sets of features (for a total of 20 models) to find which model and features best performed at predicting air toxics cancer rates. Prior to fitting our models, we split our data into a training set and a validation set so that we would be able to see how well our model performs on new data after fitting on the training data. 
 
+We created a baseline model by setting y equal to the mean of our train data (y = ______). The baseline model had an R^2 of 
 ### Linear Regression
 
 #### Environmental and Demographic Features 

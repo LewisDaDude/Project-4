@@ -1,5 +1,4 @@
 # directories to ignore
-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -132,4 +131,3 @@ dmypy.json
 .pyre/
 
 # CSV FILE
-EJSCREEN_2021_StatePctile_Tracts.csv

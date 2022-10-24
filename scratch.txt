@@ -24,9 +24,12 @@ demographic data: https://www.epa.gov/system/files/documents/2022-03/demographic
 
 Census tracts: https://www2.census.gov/geo/pdfs/education/CensusTracts.pdf
 
+Information about census tracts: https://www.census.gov/programs-surveys/geography/about/glossary.html#:~:text=Census%20Tract,-Census%20Tracts%20are&text=Census%20tracts%20generally%20have%20a,on%20the%20density%20of%20settlement.
+
 NPL - The National Priorities List is the list of sites of national priority among the known releases or threatened releases of hazardous substances, pollutants, or contaminants throughout the United States and its territories: https://www.epa.gov/superfund/superfund-national-priorities-list-npl
 
 superfund sites EPA funded (or polluter funded) sites located adjacent to NPL meant to clean up the site.
+
 
 
 
@@ -41,6 +44,7 @@ superfund sites EPA funded (or polluter funded) sites located adjacent to NPL me
 3. Dropping the 2000 'CANCER' (at index 73724 - Puerto Rico)
 4. Inclusion of pwdis (waste discharge column) containing 20,000 missing values
 
+# consider dropping hazard index
 
 # dropping pwdis - allude detailed information "to The water environmental indicator in previous versions of EJSCREEN was solely based on the number of
 major NPDES facilities within a specific radius and took into account the distance the facilities are from
